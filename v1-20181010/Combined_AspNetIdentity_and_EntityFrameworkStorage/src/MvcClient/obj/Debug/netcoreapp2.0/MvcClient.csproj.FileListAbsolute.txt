@@ -1,0 +1,11 @@
+T:\Code Sample\IdentityServer4\IdentityServer4.Samples-release\Quickstarts\Combined_AspNetIdentity_and_EntityFrameworkStorage\src\MvcClient\bin\Debug\netcoreapp2.0\MvcClient.deps.json
+T:\Code Sample\IdentityServer4\IdentityServer4.Samples-release\Quickstarts\Combined_AspNetIdentity_and_EntityFrameworkStorage\src\MvcClient\bin\Debug\netcoreapp2.0\MvcClient.runtimeconfig.json
+T:\Code Sample\IdentityServer4\IdentityServer4.Samples-release\Quickstarts\Combined_AspNetIdentity_and_EntityFrameworkStorage\src\MvcClient\bin\Debug\netcoreapp2.0\MvcClient.runtimeconfig.dev.json
+T:\Code Sample\IdentityServer4\IdentityServer4.Samples-release\Quickstarts\Combined_AspNetIdentity_and_EntityFrameworkStorage\src\MvcClient\bin\Debug\netcoreapp2.0\MvcClient.dll
+T:\Code Sample\IdentityServer4\IdentityServer4.Samples-release\Quickstarts\Combined_AspNetIdentity_and_EntityFrameworkStorage\src\MvcClient\bin\Debug\netcoreapp2.0\MvcClient.pdb
+T:\Code Sample\IdentityServer4\IdentityServer4.Samples-release\Quickstarts\Combined_AspNetIdentity_and_EntityFrameworkStorage\src\MvcClient\obj\Debug\netcoreapp2.0\MvcClient.csprojAssemblyReference.cache
+T:\Code Sample\IdentityServer4\IdentityServer4.Samples-release\Quickstarts\Combined_AspNetIdentity_and_EntityFrameworkStorage\src\MvcClient\obj\Debug\netcoreapp2.0\MvcClient.csproj.CoreCompileInputs.cache
+T:\Code Sample\IdentityServer4\IdentityServer4.Samples-release\Quickstarts\Combined_AspNetIdentity_and_EntityFrameworkStorage\src\MvcClient\obj\Debug\netcoreapp2.0\MvcClient.AssemblyInfoInputs.cache
+T:\Code Sample\IdentityServer4\IdentityServer4.Samples-release\Quickstarts\Combined_AspNetIdentity_and_EntityFrameworkStorage\src\MvcClient\obj\Debug\netcoreapp2.0\MvcClient.AssemblyInfo.cs
+T:\Code Sample\IdentityServer4\IdentityServer4.Samples-release\Quickstarts\Combined_AspNetIdentity_and_EntityFrameworkStorage\src\MvcClient\obj\Debug\netcoreapp2.0\MvcClient.dll
+T:\Code Sample\IdentityServer4\IdentityServer4.Samples-release\Quickstarts\Combined_AspNetIdentity_and_EntityFrameworkStorage\src\MvcClient\obj\Debug\netcoreapp2.0\MvcClient.pdb

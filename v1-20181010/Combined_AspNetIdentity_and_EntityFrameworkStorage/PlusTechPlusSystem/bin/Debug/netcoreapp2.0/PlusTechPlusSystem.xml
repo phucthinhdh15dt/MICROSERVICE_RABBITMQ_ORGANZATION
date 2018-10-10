@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PlusTechPlusSystem</name>
+    </assembly>
+    <members>
+        <member name="M:PlusTechPlusSystem.Controllers.OgranzitionController.Get_Ogranzition(System.String,System.Int32,System.Int32)">
+            <summary>
+            Day la api phan trang 
+            </summary>
+        </member>
+        <member name="M:PlusTechPlusSystem.Controllers.OgranzitionServiceController.Get_OgranzitionService(System.String,System.Int32,System.Int32)">
+            <summary>
+            Day la api phan trang 
+            </summary>
+        </member>
+        <member name="M:PlusTechPlusSystem.Controllers.ProfileSystemController.Get_ProfileSystem(System.String,System.Int32,System.Int32)">
+            <summary>
+            Day la api phan trang 
+            </summary>
+        </member>
+        <member name="M:PlusTechPlusSystem.Controllers.ServiceController.Get_Service(System.String,System.Int32,System.Int32)">
+            <summary>
+            Day la api phan trang 
+            </summary>
+        </member>
+    </members>
+</doc>

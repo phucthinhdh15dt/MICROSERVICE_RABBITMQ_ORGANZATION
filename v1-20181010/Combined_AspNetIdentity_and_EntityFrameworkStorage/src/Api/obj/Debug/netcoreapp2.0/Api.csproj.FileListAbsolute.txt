@@ -1,0 +1,11 @@
+T:\Code Sample\IdentityServer4\IdentityServer4.Samples-release\Quickstarts\Combined_AspNetIdentity_and_EntityFrameworkStorage\src\Api\bin\Debug\netcoreapp2.0\Api.deps.json
+T:\Code Sample\IdentityServer4\IdentityServer4.Samples-release\Quickstarts\Combined_AspNetIdentity_and_EntityFrameworkStorage\src\Api\bin\Debug\netcoreapp2.0\Api.runtimeconfig.json
+T:\Code Sample\IdentityServer4\IdentityServer4.Samples-release\Quickstarts\Combined_AspNetIdentity_and_EntityFrameworkStorage\src\Api\bin\Debug\netcoreapp2.0\Api.runtimeconfig.dev.json
+T:\Code Sample\IdentityServer4\IdentityServer4.Samples-release\Quickstarts\Combined_AspNetIdentity_and_EntityFrameworkStorage\src\Api\bin\Debug\netcoreapp2.0\Api.dll
+T:\Code Sample\IdentityServer4\IdentityServer4.Samples-release\Quickstarts\Combined_AspNetIdentity_and_EntityFrameworkStorage\src\Api\bin\Debug\netcoreapp2.0\Api.pdb
+T:\Code Sample\IdentityServer4\IdentityServer4.Samples-release\Quickstarts\Combined_AspNetIdentity_and_EntityFrameworkStorage\src\Api\obj\Debug\netcoreapp2.0\Api.csprojAssemblyReference.cache
+T:\Code Sample\IdentityServer4\IdentityServer4.Samples-release\Quickstarts\Combined_AspNetIdentity_and_EntityFrameworkStorage\src\Api\obj\Debug\netcoreapp2.0\Api.csproj.CoreCompileInputs.cache
+T:\Code Sample\IdentityServer4\IdentityServer4.Samples-release\Quickstarts\Combined_AspNetIdentity_and_EntityFrameworkStorage\src\Api\obj\Debug\netcoreapp2.0\Api.AssemblyInfoInputs.cache
+T:\Code Sample\IdentityServer4\IdentityServer4.Samples-release\Quickstarts\Combined_AspNetIdentity_and_EntityFrameworkStorage\src\Api\obj\Debug\netcoreapp2.0\Api.AssemblyInfo.cs
+T:\Code Sample\IdentityServer4\IdentityServer4.Samples-release\Quickstarts\Combined_AspNetIdentity_and_EntityFrameworkStorage\src\Api\obj\Debug\netcoreapp2.0\Api.dll
+T:\Code Sample\IdentityServer4\IdentityServer4.Samples-release\Quickstarts\Combined_AspNetIdentity_and_EntityFrameworkStorage\src\Api\obj\Debug\netcoreapp2.0\Api.pdb
